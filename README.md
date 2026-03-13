@@ -1,4 +1,4 @@
-# 🚨 Drowsiness Predictor (EAR-Based)
+so# 🚨 Drowsiness Predictor (EAR-Based)
 
 A real-time drowsiness detection system that monitors eye activity using facial landmarks and Eye Aspect Ratio (EAR).  
 The system detects prolonged eye closure (not normal blinking) and triggers a single audio + visual alert.
@@ -115,8 +115,7 @@ Drowsiness-Predictor/
 
 ## 👤 Author
 
-Sandhya
-
+Jabili
 ---
 
 ## ⭐ Final Note
